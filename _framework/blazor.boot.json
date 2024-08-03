@@ -1,9 +1,9 @@
 {
   "mainAssemblyName": "HouseholdEconomy.Browser",
   "resources": {
-    "hash": "sha256-vXbbp3OOOy3aoG5kzC3tNGrhh8MdvlHT/P+B51iVavg=",
+    "hash": "sha256-TxH4PxifNOymUEbuMhHev6mzrjPv19iqLI6glCEcb2s=",
     "jsModuleNative": {
-      "dotnet.native.8.0.7.sew728rtws.js": "sha256-wIY+ChQlaacRM7Y3w6lZhVZSsGZw3Tp1BFTuMSSgrcc="
+      "dotnet.native.8.0.7.ph3op8p2jo.js": "sha256-wIY+ChQlaacRM7Y3w6lZhVZSsGZw3Tp1BFTuMSSgrcc="
     },
     "jsModuleRuntime": {
       "dotnet.runtime.8.0.7.urcsr75yt5.js": "sha256-soZyw6XWXOLKhA26AOyzSpCP5cAsw1wvhdPHSYNTMfQ="
@@ -33,13 +33,13 @@
       "Avalonia.Themes.Fluent.wasm": "sha256-BbxMOREZqAtF+qUHhf8yve5RbO6bqw5PsI7u6uXxbMI=",
       "Avalonia.Vulkan.wasm": "sha256-pM/LxQ09HJXzRKdPo8M+zallfmDxs5qiLp71rDT7Tbk=",
       "Avalonia.wasm": "sha256-qJyD0WxF+zkxwXly2UGp9pPPuDotI84+Tu/G2kvdWaY=",
-      "CommunityToolkit.Mvvm.wasm": "sha256-VBdGX22oYI0863hxva4SChyau91kXhECbEWJwix1xD0=",
-      "HarfBuzzSharp.wasm": "sha256-aDpKwbXkDCdUdbR3xmfag12u5mgHIZ13q7cN+kJiKFU=",
-      "HouseholdEconomy.Browser.wasm": "sha256-v+zCkhcrLqEp7kma80J9SpThl9QkEglYtlObcSHEdR8=",
-      "HouseholdEconomy.wasm": "sha256-+dano7fttIyrBco+BO6Fvqanwd6L8aOIxN4T2iTReLs=",
+      "CommunityToolkit.Mvvm.wasm": "sha256-dl9lYW8E8z4/c5TbOGast8KyT88zVNvLFFYm0mq0R6s=",
+      "HarfBuzzSharp.wasm": "sha256-dCmrwg8U+clvFptt4V/quHegeMeDu+CQm7v27Rl9OHo=",
+      "HouseholdEconomy.Browser.wasm": "sha256-oKWwqKFrk78+s0+9HyD4cLNOFa7/7Zxu4hPwqaFT478=",
+      "HouseholdEconomy.wasm": "sha256-w2RpQuSEO3sOgHELYyUITE6j9wB8vgQ6BTIYcG4TNCQ=",
       "MicroCom.Runtime.wasm": "sha256-dI22KS20yc+ziyg4tSUpmSjG0ebPXDL5QTSZf+ehjwI=",
       "netstandard.wasm": "sha256-uLz14ksmxuiuxj1xRHjLmQ2sI8+p4rXVnGA5/4milUg=",
-      "SkiaSharp.wasm": "sha256-nLRLwhfPmdvIhXwhCwEsg4x6ANUwZot5q204PWstcSo=",
+      "SkiaSharp.wasm": "sha256-LmizkBc477Qn3IIkjyMAqVaXYpsv7Ad9MxegLCa2TfI=",
       "System.Collections.Concurrent.wasm": "sha256-qGiYQTVEx1EPhvZz2oyTUjKT03ccXBBAPn1YSL9gaqo=",
       "System.Collections.NonGeneric.wasm": "sha256-DL+wT8yuH0DFo5OFHWfZn1WobB4v7wGwfXXC4cGUpJo=",
       "System.Collections.Specialized.wasm": "sha256-vhbJApHIt7whGx1DfNjityAYrVBmJSk9K6g7P3LvxpM=",
