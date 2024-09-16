@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "HouseholdEconomy.Browser",
   "resources": {
-    "hash": "sha256-n7XMPg+BmsLnj9u0eVEYpSQtZHHix3lSdnzCBGUooyE=",
+    "hash": "sha256-xEiYj0FOteEtEX2Wn84UuvyBVNPJlXVoqZL5F0ggrfY=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.ph3op8p2jo.js": "sha256-HSydFHr5UK2nh0kQg7Is20cJiNUpPjg7pAW+wlwOhqs="
     },
@@ -35,8 +35,8 @@
       "Avalonia.wasm": "sha256-qJyD0WxF+zkxwXly2UGp9pPPuDotI84+Tu/G2kvdWaY=",
       "CommunityToolkit.Mvvm.wasm": "sha256-DSMQNclqTbUv191TeO/+HkehxJ6AbVzKrhFvdNRG47w=",
       "HarfBuzzSharp.wasm": "sha256-2z6ihacTrVXHYlaU/lVWgbKfJZQdktHlRBm2owPp7u0=",
-      "HouseholdEconomy.Browser.wasm": "sha256-pfHYryeYPa+gC2JAphf4VhqssJ4PKDG1xt0HKvqObtI=",
-      "HouseholdEconomy.wasm": "sha256-d99bLaSYSKXICRk0yyBkGK440L2efirHh5juvffLfE0=",
+      "HouseholdEconomy.Browser.wasm": "sha256-H6/8M1s11aaPWzvdXvspzAhqhmgo4AifpLjU8TUBZz0=",
+      "HouseholdEconomy.wasm": "sha256-Kfw+ANbTcT4NHdx/2ShjlFbRq7IwjEqoNzBd6B+6xiU=",
       "LiveChartsCore.SkiaSharpView.Avalonia.wasm": "sha256-XCF72KaYLAsTUDM8k5OUhspV90ZgidVToHIzymzPPz8=",
       "LiveChartsCore.SkiaSharpView.wasm": "sha256-LY+MuJUsQwEyI39ebiqCZ5R3ceUMMRWk9bu0Dp7iqI4=",
       "LiveChartsCore.wasm": "sha256-te15Xm2Caa/zc8X0heU0J4bHla1XLpkbN6s2wjabQ4A=",
