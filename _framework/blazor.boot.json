@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "HouseholdEconomy.Browser",
   "resources": {
-    "hash": "sha256-Dj0RNLP8zQPrKk45THz62040O7lrBiHGZ9kGn2SyvEs=",
+    "hash": "sha256-yUKzV3Shf8kSevxwIixPuZo4QzJzwjYumRJCI6/x7pE=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.ph3op8p2jo.js": "sha256-HSydFHr5UK2nh0kQg7Is20cJiNUpPjg7pAW+wlwOhqs="
     },
@@ -19,7 +19,7 @@
     "assembly": {
       "Avalonia.Base.wasm": "sha256-6/FaGa4D6mJ4i1rmMJ6wlBIl1NpEWc4JPPV5r05dIfY=",
       "Avalonia.Browser.wasm": "sha256-CzKqNgXHu1nqI3iNF4sV9zB7+pUqEJryynp/3BiIlwU=",
-      "Avalonia.Controls.wasm": "sha256-ez81fpFOPUQZgejiHKCqkYEh0IHtv/iUScdPs0SE/WY=",
+      "Avalonia.Controls.wasm": "sha256-HChjvILowBIOoR3x0tA5tBwK0qjp3xkyWNxjkOIlgtA=",
       "Avalonia.DesignerSupport.wasm": "sha256-4MbIf5Cob8gsZGo/mhUy54kdRQAUlERkzL3zWuo3j+I=",
       "Avalonia.Dialogs.wasm": "sha256-3jfsrr7Ze/F8E90LlUbqrB+w69ZVZZprOzzgn9gBtXs=",
       "Avalonia.Fonts.Inter.wasm": "sha256-WQrphT73VthmqLRa8FI6NwUXziBYx/CL7yyLI2Xn+3M=",
@@ -35,8 +35,8 @@
       "Avalonia.wasm": "sha256-qJyD0WxF+zkxwXly2UGp9pPPuDotI84+Tu/G2kvdWaY=",
       "CommunityToolkit.Mvvm.wasm": "sha256-DSMQNclqTbUv191TeO/+HkehxJ6AbVzKrhFvdNRG47w=",
       "HarfBuzzSharp.wasm": "sha256-2z6ihacTrVXHYlaU/lVWgbKfJZQdktHlRBm2owPp7u0=",
-      "HouseholdEconomy.Browser.wasm": "sha256-pFKMmdS5rEihCS52EIsrvtggT11P5CHZ9Ya37jpj+Cs=",
-      "HouseholdEconomy.wasm": "sha256-7zjM6/xKBWfcoStY6FcnTX4RFcH10iRqJPpwymoPolY=",
+      "HouseholdEconomy.Browser.wasm": "sha256-1OxNGdZYIGXPTsNMerbIaV/XPe3n1gcegPxERDsLEl8=",
+      "HouseholdEconomy.wasm": "sha256-hlPMEv/YPKc6nY3Db4RCO1hZJNf3lCMIRUJp1LP/h6s=",
       "LiveChartsCore.SkiaSharpView.Avalonia.wasm": "sha256-XCF72KaYLAsTUDM8k5OUhspV90ZgidVToHIzymzPPz8=",
       "LiveChartsCore.SkiaSharpView.wasm": "sha256-LY+MuJUsQwEyI39ebiqCZ5R3ceUMMRWk9bu0Dp7iqI4=",
       "LiveChartsCore.wasm": "sha256-te15Xm2Caa/zc8X0heU0J4bHla1XLpkbN6s2wjabQ4A=",
